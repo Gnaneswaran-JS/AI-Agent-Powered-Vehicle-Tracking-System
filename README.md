@@ -105,7 +105,7 @@ In urban environments, tracking vehicles across a network of surveillance camera
 
 👨‍💻 Author : Suriya SK 
             Surendar B
-            Gnaneshwaran JS
+            Gnaneswaran JS
             KumaraGuru M
 
 This project was developed as part of an AI/ML capstone focused on real-world applications of multimodal recognition and deep learning. It showcases how AI agents can interact with databases, detect and track physical entities across spatial networks, and generate explainable outputs.
